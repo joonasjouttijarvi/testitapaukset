@@ -7,7 +7,10 @@
 
 ### Rajapintakuvaus
 
+#### Esimerkki
+
 Metodia käytetään tähän tyyliin
+
 ```java
 int aika = 3665;
 String tulos = TimeUtils.secToTime(aika);
@@ -25,3 +28,5 @@ System.out.println("Aika: " + tulos);
   - Suorituskyky ja rajoitukset: Mahdolliset suorituskyvyn näkökohdat tai rajoitukset.
 
 Tehtävänannossa annettu kuvaus ei ole riittävä eikä kattava, koska se tarjoaa esimerkin vain metodin käytöstä.
+
+[Kattavuusanalyysi](https://users.metropolia.fi/~joonajou/testreport)
