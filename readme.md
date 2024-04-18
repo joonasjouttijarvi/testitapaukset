@@ -24,7 +24,7 @@ System.out.println("Aika: " + tulos);
   - Poikkeukset (Exceptions): Mitä poikkeuksia metodi voi heittää ja missä tilanteissa.
   - Esimerkkikutsut: Esimerkkejä siitä, miten metodia käytetään käytännössä.
   - Sivuvaikutukset: Mahdolliset sivuvaikutukset, joita metodin suorittaminen saattaa aiheuttaa.
-  - Riippuvuudet: Tiedot mahdollisista muista metodeista tai järjestelmän osista, joihin metodi on riippuvainen.
+  - Riippuvuudet: Tiedot mahdollisista muista metodeista tai järjestelmän osista, joista metodi on riippuvainen.
   - Suorituskyky ja rajoitukset: Mahdolliset suorituskyvyn näkökohdat tai rajoitukset.
 
 Tehtävänannossa annettu kuvaus ei ole riittävä eikä kattava, koska se tarjoaa esimerkin vain metodin käytöstä.
